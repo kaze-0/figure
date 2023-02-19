@@ -1,1 +1,104 @@
-<mxfile host="app.diagrams.net" modified="2023-02-19T15:09:12.849Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="jFJ8CRBrCbYSRYpdrqEt" type="github"><diagram name="第 1 页" id="FRViWz3-4DJHrTxfcq__">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-19T15:32:15.709Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="o46k9YVq0KTr65OWRdic" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="FRViWz3-4DJHrTxfcq__">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="120" as="targetPoint" />
+            <mxPoint x="320" y="120" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-1" target="m8mjKK-u7IMIguM0Tm64-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="320" y="150" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-1" value="Select one method to calculate Green GDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;labelBackgroundColor=none;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="30" y="120" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-2" target="m8mjKK-u7IMIguM0Tm64-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="255" />
+              <mxPoint x="280" y="225" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-2" target="m8mjKK-u7IMIguM0Tm64-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="280" y="255" />
+              <mxPoint x="280" y="285" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-2" value="Determine weights of indicators in the calculation of GGDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;labelBackgroundColor=none;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="30" y="240" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-3" value="Prove that GGDP is indeed relative to climate mitigation" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;labelBackgroundColor=none;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-4" value="Prove that the swith from GDP to GGDP worthwhile globally" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;labelBackgroundColor=none;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="30" y="450" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-5" value="Make an in-depth analysis of a country about what impact this switch will have&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;labelBackgroundColor=none;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="30" y="575" width="200" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="260" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="310" y="190" />
+              <mxPoint x="280" y="190" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-10" value="type 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="290" y="135" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-11" target="m8mjKK-u7IMIguM0Tm64-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-11" value="EWM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="340" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-12" target="m8mjKK-u7IMIguM0Tm64-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-12" value="CVM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-15" target="m8mjKK-u7IMIguM0Tm64-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-15" value="Weight" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="470" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-18" target="m8mjKK-u7IMIguM0Tm64-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-18" target="m8mjKK-u7IMIguM0Tm64-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-18" value="GGDP" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="340" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-20" value="type 2" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="390" y="135" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#006658;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;fontColor=#006658;fillColor=#21C0A5;" edge="1" parent="1" source="m8mjKK-u7IMIguM0Tm64-23" target="m8mjKK-u7IMIguM0Tm64-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-23" value="Model" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="470" y="310" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="m8mjKK-u7IMIguM0Tm64-25" value="Global climate" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=20;fontFamily=Architects Daughter;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="340" y="370" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
