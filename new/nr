@@ -1,1 +1,37 @@
-<mxfile host="app.diagrams.net" modified="2023-02-20T18:05:10.234Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" version="20.8.20" etag="6hyyko1ieqYnBcX9Qeka" type="github"><diagram name="第 1 页" id="8gUyU9WtlYGlatVsxTAT">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2023-02-20T18:21:04.209Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="6VTVUuZ6q0iSZmCj_-Mj" version="20.8.20" type="github">
+  <diagram name="第 1 页" id="8gUyU9WtlYGlatVsxTAT">
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="AvCF4wnOI34KPjbBeat1-12" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;dashed=1;labelBackgroundColor=none;strokeColor=#006658;fontColor=#006658;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="360" width="340" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-10" value="" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=none;dashed=1;labelBackgroundColor=none;strokeColor=#006658;fontColor=#006658;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="310" y="110" width="340" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-2" value="Aspacts for &lt;b style=&quot;font-size: 20px;&quot;&gt;saving and sustainably using&lt;/b&gt; the natural resources." style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#ADF2F7;strokeColor=#006658;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="70" y="170" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-3" value="&amp;nbsp;Water resource management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#ADF2F7;strokeColor=#006658;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="319" y="120" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-4" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#ADF2F7;strokeColor=#006658;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="250" y="110" width="50" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-5" value="Forestry management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#ADF2F7;strokeColor=#006658;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="319" y="180" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-8" value="Energy management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#ADF2F7;strokeColor=#006658;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="319" y="240" width="321" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-9" value="Marine resources management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;labelBackgroundColor=none;fillColor=#ADF2F7;strokeColor=#006658;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="319" y="300" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="AvCF4wnOI34KPjbBeat1-11" value="Waste management" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;fillColor=#ADF2F7;labelBackgroundColor=none;strokeColor=#006658;fontColor=#006658;" vertex="1" parent="1">
+          <mxGeometry x="319" y="370" width="321" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
